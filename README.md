@@ -17,6 +17,14 @@ Parallax Data Acquisition tool (PLX-DAQ) software add-in for Microsoft Excel acq
 There are 6 departments will send their request of documents to director. And if the director accepted their document, it would go to next progress which is financial department.
 Financial department will verify their document whether it is works or not and also make sure it is not exceeding the budget. Therefore, the financial department will finalize the decision.
 
+    Achievement
+
+After finished this project, I had experienced the whole process of drone implementation including software and hardware. I think the difficult part is how we really accept this using in an indoor space. Drone has so many problems such like the battery, the safety and the noise of drone. I must say this will be a big project if people would like to use in real life. Moreover, I think the software part needs to put more efforts to it. Indeed, the data can be written and read through the drone. But the data I used was just a simple one and only recorded the status and bytes. If there are more information and data need to be stored and send such like some description, it might need a bigger memory storage. However, I think it still really good to try and have high possibility to make this dream come true. The drone is become a common tool now. It provides convenient, lower cost environment and saving lots of time to us. The hardware is not a big problem because the Arduino is a great environment to develop suitable board which can use in drone in the future. 
+
+During the laborious country, quantity tends to drown out any other requirements. With the heavy workload and some of the large-scale company, efficiency influence a lot on office work progress. Office drone probably is a great idea to sending the files and documents making the office document progress more efficiently and smoothly.
+
+The other achievement is, in Japan, quality clearly does matter, they already created the drone that can use in office. However, Japan’s office drone is about the camera monitor the employee’s situation. Japanese office security company Tasei try to monitor some over desks with employees working late and use drone to make them go home. Due to this invention, not only will it optimise work and make its quality more important than its duration, but it may just make the end of every working day a TGIF to boot.
+
 
 
 
